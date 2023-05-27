@@ -231,8 +231,8 @@ await createMultipleListings(client, [
   }
 ])
 await listDatabases(client)  
-} catch (error) {
-  console.log(error)
+} catch (err) {
+  console.log(err)
 } finally {
   await client.close();
 }
