@@ -213,7 +213,7 @@ await client.connect()
 await createMultipleListings(client, [
   {
     name:"tazo",
-    lastname:'gelashvili',
+    lastname:'gelasha',
     bedroom:1,
     bathroom:2
   },
