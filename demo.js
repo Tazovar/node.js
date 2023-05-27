@@ -225,7 +225,7 @@ await createMultipleListings(client, [
   },
   {
     name:"undifined",
-    lastname:'undifined',
+    lastname:'asd',
     bedroom:null,
     bathroom:null
   }
